@@ -44,7 +44,7 @@ The Windows firewall connector allows you to easily connect your Windows firewal
 
 4. Select which data types you want to stream.
 5. Click **Install solution**.
-6. To use the relevant schema in Log Analytics for the Windows firewall, search for **SecurityEvent**.
+6. To use the relevant schema in Log Analytics for the Windows firewall, search for **WindowsFirewall**.
 
 ## Validate connectivity
 
